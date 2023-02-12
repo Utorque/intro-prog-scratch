@@ -2,7 +2,7 @@
 Fil rouge pour une introduction à la programmation avec Scratch.  
 
 Le but est de faire une introduction ludique à l'environnement Scratch, permettant de pouvoir très facilement créer un jeu vidéo simple en découvrant des concepts de programmation fondamental.
-Le fil rouge est basé sur [cet exemple](https://scratch.mit.edu/projects/802789519).   
+Le fil rouge est basé sur [cet exemple](https://scratch.mit.edu/projects/802789519) simple.   
 
 Le public cible sont des jeunes dès environ 10 ans (9 - 14 ?).  
 Taille du groupe : de une à 6 personnes environ.
